@@ -1,0 +1,84 @@
+#Container{
+        position:relative;
+}
+#Header{
+        padding:10px;
+        width:100%;
+        background:#ffffff;
+}
+#Content{
+        position:relative;
+        background: url"LatarKopi.jpg";
+        margin:0px 20px;
+        padding: 10px;
+}
+#LogoNgops{
+        margin: auto;
+        padding-left: 30px;
+        padding-top: 10px;
+}
+.Pencarian{
+        margin: auto;
+        width: 300px;
+        float: right;
+        padding-top: 80px;
+}
+.CariApa{
+        left: 50%;
+        padding:3px 15px;
+        background:rgba(50, 50, 50, 0.2);
+        border:0px solid #dbdbdb;
+}
+.KlikCari{
+        position:relative;
+        padding:3px;
+        left:-8px;
+        border:2px solid #999999;
+        background-color:#999999;
+        color:#ffffff;
+}
+.Aktif{
+        margin: auto;
+        padding: 4px 21px;
+        background: #F2D45C;
+        background: rgba(0,0,0,0,5);
+}
+.TidakAktif{
+        margin: auto;
+        padding: 4px 20px;
+        background: #ffffff;
+        background: rgba(0,0,0,0,5);
+}
+.Deskripsi{
+        color: #ffffff;
+        text-shadow: 10px 1px 9px black;
+}
+.BackgroundArticlePink{
+	margin: auto;
+    width: 90%;
+    padding: 50px 30px;
+    color: black;
+    background: #C67A6A;
+    border-radius: 10px;
+}
+.BackgroundArticleBlue{
+	margin: auto;
+    width: 90%;
+    padding: 50px 30px;
+    color: black;
+    background: #628193;
+    border-radius: 10px;
+}
+#Footer{
+        width: 100%;
+        line-height:50px;
+        color: #ffffff;
+        background:#2B2830;
+        padding: 6px;
+}
+.TulisanSosmed{
+        text-align: right;
+}
+.LogoSosmed{
+        padding-left: 20px;
+}

@@ -1,0 +1,133 @@
+#Container{
+        position:relative;
+}
+#Header{
+        padding:10px;
+        width:100%;
+        background:#ffffff;
+}
+#Content{
+        position:relative;
+        background: url"LatarKopi.jpg";
+        margin:0px 20px;
+        padding: 10px;
+}
+#LogoNgops{
+        margin: auto;
+        padding-left: 30px;
+        padding-top: 10px;
+}
+.Pencarian{
+        margin: auto;
+        width: 300px;
+        float: right;
+        padding-top: 80px;
+}
+.CariApa{
+        left: 50%;
+        padding:3px 15px;
+        background:rgba(50, 50, 50, 0.2);
+        border:0px solid #dbdbdb;
+}
+.KlikCari{
+        position:relative;
+        padding:3px;
+        left:-8px;
+        border:2px solid #999999;
+        background-color:#999999;
+        color:#ffffff;
+}
+.Aktif{
+        margin: auto;
+        padding: 4px 21px;
+        background: #F2D45C;
+        background: rgba(0,0,0,0,5);
+}
+.TidakAktif{
+        margin: auto;
+        padding: 4px 20px;
+        background: #ffffff;
+        background: rgba(0,0,0,0,5);
+}
+.CariNama{
+        box-sizing : border-box;
+        color: #000000;
+        width: 20%;
+        padding: 10px;
+        font-size: 11pt;
+        margin-bottom: 20px;
+        background: rgba(255,255,255,0.5);
+        border-radius: 20px;
+        background-image: url("Search.png");
+  	background-repeat: no-repeat;
+  	padding-left: 40px;
+  	background-size: 15%;
+  	background-position-y: 20%;
+}
+
+.KotakChat{
+	margin: auto;
+        width: 350px;
+        padding: 10px;
+        border: spx solid #ccc;
+        background: white;
+        background-color: rgba(255,255,255,0.5);
+}
+.container{
+	border: 2px solid #dedede;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px 0;
+}
+.gelap{
+	border-color: #ccc;
+	background-color: #ddd;
+}
+.container img{
+	float: left;
+	max-width: 60px;
+	width: 100%;
+	margin-right: 20px;
+	border-radius: 50%;
+}
+.container img.m_right{
+	float: right;
+	margin-left: 20px;
+	margin-right:0;
+}
+.right{
+	float: right;
+	color: #575252;
+}
+.left{
+	float: left;
+	color: #3b3939;
+}
+.KetikChat{
+	box-sizing : border-box;
+        background: #C67A6A;
+        color: #000000;
+        width: 100%;
+        padding: 10px;
+        font-size: 11pt;
+        margin-bottom: 20px;
+        background-image: url("Keyboard.png");
+  	background-repeat: no-repeat;
+  	padding-left: 40px;
+  	background-size: 10%;
+  	background-position-y: 20%;
+}
+#Footer{
+        width: 100%;
+        line-height:50px;
+        color: #ffffff;
+        background:#2B2830;
+        padding: 6px;
+}
+.TulisanSosmed{
+        text-align: right;
+}
+.LogoSosmed{
+        padding-left: 20px;
+}
